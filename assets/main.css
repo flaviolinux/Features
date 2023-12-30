@@ -2,35 +2,27 @@
 
 body {
     font-family: 'Poppins';
-    
-
 }
 h1 {
     color: black;
     font-size: 1.5rem!important;
 }
+strong {
+    font-weight: 100!important;
+}
 .categ {
-    
     width: 25%;
-    
-
 }
 .categ a {
     display: block;
     text-align: center;
-    
 }
-
-
 .tiki {
     display: flex;
     
 }
-
-
 .produtos {
     width: 75%;
-    
 }
 .produtos a {
     color: black;
@@ -39,7 +31,15 @@ h1 {
     opacity: 30%;
     text-decoration: none;
 }
-
 .produto-img {
     max-width: 300px;
+}
+.text-footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.text-footer p {
+text-align: center;
 }
