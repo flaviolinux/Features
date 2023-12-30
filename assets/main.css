@@ -1,0 +1,33 @@
+
+body {
+
+}
+.categ {
+    
+    width: 25%;
+    
+
+}
+.categ a {
+    display: block;
+    text-align: center;
+}
+
+
+.tiki {
+    display: flex;
+}
+
+
+.produtos {
+    width: 75%;
+    
+}
+.produtos a:hover {
+    opacity: 30%;
+    text-decoration: none;
+}
+
+.produto-img {
+    max-width: 100px;
+}
